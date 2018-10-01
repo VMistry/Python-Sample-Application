@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginxCB
+    git: git@github.com:VMistry/nginxCB.git
+    revision: c071892be2f7639853a4bc55e361634687bdb14f
+  python
+    git: git@github.com:VMistry/pythonCB.git
+    revision: b2363cf1c3d0a701207fad9b77e1a92185760a4c
+
+GRAPH
+  nginxCB (0.1.0)
+  python (0.1.0)
