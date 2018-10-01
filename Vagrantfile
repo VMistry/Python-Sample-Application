@@ -18,3 +18,4 @@ Vagrant.configure("2") do |config|
     chef.add_recipe "nginxCB::default"
   end
 end
+# tade
